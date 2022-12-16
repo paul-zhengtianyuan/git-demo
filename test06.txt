@@ -5,3 +5,4 @@ hello text06!
 hello text06! 
 hello text06! 
 hello text06! hello master
+hello text06! hello hot-fix 
